@@ -1,4 +1,4 @@
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=HemantGaikwad7&abbreviated=true" alt="hemantgaikwad" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=HemantGaikwad7&abbreviated=true&base=100" alt="hemantgaikwad" /> </p>
 
 - 👋 Hi, **I’m Hemant Gaikwad, I have sound knowledge of Core Java, C#, MVC, Outsystems and Web API**
 

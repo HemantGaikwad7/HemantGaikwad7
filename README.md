@@ -1,3 +1,5 @@
+<p align="left"> <img src="![](https://komarev.com/ghpvc/?username=HemantGaikwad7&abbreviated=true)" alt="hemantgaikwad" /> </p>
+
 - 👋 Hi, **I’m Hemant Gaikwad, I have sound knowledge of Core Java, C#, MVC, Outsystems and Web API**
 
 - 💬 Ask me about **Data Structures and Algorithms, Java, MVC, C#, Web API, MERN, SQL, Spring Framework**

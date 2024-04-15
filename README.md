@@ -4,7 +4,7 @@
 
 - 💬 Ask me about **Data Structures and Algorithms, Java, SpringBoot, Hibernate, MVC, C#, Web API, MERN, SQL, Spring Framework**
 
-- 🌱 I’m currently learning **Cloud technologies, Data science, Machine Learning & AI**
+- 🌱 I’m currently learning **Salesforce, Cloud technologies, Data science, Machine Learning & AI**
 
 - 📫 How to reach me **gaikwad.he@northeastern.edu**
 

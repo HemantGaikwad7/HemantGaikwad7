@@ -2,9 +2,11 @@
 
 - 👋 Hi, **I’m Hemant Gaikwad, I have sound knowledge of Core Java, C#, MVC, Outsystems and Web API**
 
+- 👨‍💻 All of my projects are available at [https://hemantgaikwad7.github.io/Portfolio/](https://hemantgaikwad7.github.io/Portfolio/)
+
 - 💬 Ask me about **Data Structures and Algorithms, Java, SpringBoot, Hibernate, MVC, C#, Web API, MERN, SQL, Spring Framework**
 
-- 🌱 I’m currently learning **Salesforce, Cloud technologies, Data science, Machine Learning & AI**
+- 🌱 I’m currently learning **Cloud technologies, Data science, Machine Learning & AI**
 
 - 📫 How to reach me **gaikwad.he@northeastern.edu**
 

@@ -1,6 +1,6 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=HemantGaikwad7&abbreviated=true&base=42" alt="hemantgaikwad" /> </p>
 
-- 👋 Hi, **I’m Hemant Gaikwad, I have sound knowledge of Core Java, C#, MVC, Outsystems and Web API**
+- 👋 Hi, **I’m Hemant Gaikwad, I have sound knowledge of Core Java, C#, MVC, Outsystems, Web API and Data Science**
 
 - 👨‍💻 All of my projects are available at [https://hemantgaikwad7.github.io/Portfolio/](https://hemantgaikwad7.github.io/Portfolio/)
 
@@ -11,6 +11,8 @@
 - 📫 How to reach me **gaikwad.he@northeastern.edu**
 
 - ⚡ Fun fact: **James Gosling, the creator of Java, was inspired by his love for coffee and chose the name while sipping the beverage.**
+
+- **Mastering the art of software engineering and the science of data analysis, one bridges the worlds of creation and discovery, turning complexity into clarity and data into action.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

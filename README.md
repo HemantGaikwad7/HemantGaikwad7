@@ -12,7 +12,7 @@
 
 - ⚡ Fun fact: **James Gosling, the creator of Java, was inspired by his love for coffee and chose the name while sipping the beverage.**
 
-- **Mastering the art of software engineering and the science of data analysis, one bridges the worlds of creation and discovery, turning complexity into clarity and data into action.**
+- **Mastering the art of software engineering and data science, one bridges the worlds of creation and discovery, turning complexity into clarity and data into action.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

@@ -2,6 +2,8 @@
 
 - 👋 Hi, **I’m Hemant Gaikwad, I have sound knowledge of Core Java, C#, MVC, Outsystems, Web API and Data Science**
 
+- **A problem isn't truly solved until it's solved for all**
+
 - 👨‍💻 All of my projects are available at [https://hemantgaikwad7.github.io/Portfolio/](https://hemantgaikwad7.github.io/Portfolio/)
 
 - 💬 Ask me about **Data Structures and Algorithms, Java, SpringBoot, Hibernate, MVC, C#, Web API, MERN, SQL, Spring Framework**

@@ -2,6 +2,8 @@
 
 - 👋 Hi, **I’m Hemant Gaikwad, I have sound knowledge of Core Java, C#, MVC, Outsystems, Web API and Data Science**
 
+- 📚 Check out my <a href="https://leetcode.com/hemantgaikwad12051997/" target="_blank">LeetCode profile</a> to see my problem-solving skills and coding challenges I've tackled!
+
 - **A problem isn't truly solved until it's solved for all**
 
 - 👨‍💻 All of my projects are available at [https://hemantgaikwad7.github.io/Portfolio/](https://hemantgaikwad7.github.io/Portfolio/)

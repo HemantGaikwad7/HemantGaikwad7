@@ -2,12 +2,12 @@
 
 - 👋 Hi, **I’m Hemant Gaikwad, I have sound knowledge of Machine Learning, LLM, Low Code, Core Java, C#, MVC, Outsystems, Web API and Data Science**
 
-- ![Applying AI Technologies to the Workplace](https://api.badgr.io/public/assertions/zZMKchelRJST7YAratuwGw/image)
-  **Applying AI Technologies to the Workplace**  
-  Awarded to: Hemant Gaikwad  
-  Awarded: Oct 17, 2024  
-  [Verify the badge](https://badgecheck.io?url=https%3A%2F%2Fapi.badgr.io%2Fpublic%2Fassertions%2FzZMKchelRJST7YAratuwGw%3Fidentity__email%3Dgaikwad.he%2540northeastern.edu)
+![Badge: Applying AI Technologies to the Workplace](https://api.badgr.io/public/assertions/zZMKchelRJST7YAratuwGw/image)
 
+**Badge Title:** Applying AI Technologies to the Workplace  
+**Awarded to:** Hemant Gaikwad  
+**Awarded on:** Oct 17, 2024  
+[Verify this badge](https://badgecheck.io?url=https%3A%2F%2Fapi.badgr.io%2Fpublic%2Fassertions%2FzZMKchelRJST7YAratuwGw%3Fidentity__email%3Dgaikwad.he%2540northeastern.edu)
 
 
 - 📚 Check out my <a href="https://leetcode.com/hemantgaikwad12051997/" target="_blank">LeetCode profile</a> to see my problem-solving skills and coding challenges I've tackled!

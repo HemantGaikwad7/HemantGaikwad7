@@ -2,7 +2,7 @@
 
 - 👋 Hi, **I’m Hemant Gaikwad, I have sound knowledge of Machine Learning, LLM, Low Code, Core Java, C#, MVC, Outsystems, Web API and Data Science**
 
-![Badge: Applying AI Technologies to the Workplace](https://api.badgr.io/public/assertions/zZMKchelRJST7YAratuwGw/image)
+- Badge: Applying AI Technologies to the Workplace
 
 **Badge Title:** Applying AI Technologies to the Workplace  
 **Awarded to:** Hemant Gaikwad  

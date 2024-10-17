@@ -1,6 +1,9 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=HemantGaikwad7&abbreviated=true&base=42" alt="hemantgaikwad" /> </p>
 
-- 👋 Hi, **I’m Hemant Gaikwad, I have sound knowledge of Core Java, C#, MVC, Outsystems, Web API and Data Science**
+- 👋 Hi, **I’m Hemant Gaikwad, I have sound knowledge of Machine Learning, LLM, Low Code, Core Java, C#, MVC, Outsystems, Web API and Data Science**
+
+- ![AI Bootcamp Badge](https://api.badgr.io/public/assertions/zZMKchelRJST7YAratuwGw/image) [View my AI Bootcamp Badge](https://api.badgr.io/public/assertions/zZMKchelRJST7YAratuwGw?identity__email=gaikwad.he%40northeastern.edu)
+
 
 - 📚 Check out my <a href="https://leetcode.com/hemantgaikwad12051997/" target="_blank">LeetCode profile</a> to see my problem-solving skills and coding challenges I've tackled!
 

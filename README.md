@@ -1,13 +1,14 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=HemantGaikwad7&abbreviated=true&base=42" alt="hemantgaikwad" /> </p>
 
 - 👋 Hi, **I’m Hemant Gaikwad, I have sound knowledge of Gen AI, Machine Learning, LLM, Low Code, Core Java, C#, MVC, Outsystems, Web API and Data Science**
-- 
+- Completed course Introduction to Generative AI by Google
 
-![image](https://github.com/user-attachments/assets/09faf562-3614-40cd-b07a-329331d94579)
+<img width="250" alt="GenAI" src="https://github.com/user-attachments/assets/d1bda1a5-8946-4e74-b160-d0965b0c1eb1" />
+
 
 Currently learning AI Agents on HuggingFace Platform
 
-<img src="https://cdn-uploads.huggingface.co/production/uploads/noauth/C85B-gF9akNUIzEoKAYU3.webp" width="350" alt="AI Agents by Hugging Face"/>
+<img src="https://cdn-uploads.huggingface.co/production/uploads/noauth/C85B-gF9akNUIzEoKAYU3.webp" width="250" alt="AI Agents by Hugging Face"/>
 - Badge: Applying AI Technologies to the Workplace
 
 **Badge Title:** Applying AI Technologies to the Workplace  

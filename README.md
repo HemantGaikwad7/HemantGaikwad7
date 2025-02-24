@@ -1,10 +1,13 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=HemantGaikwad7&abbreviated=true&base=42" alt="hemantgaikwad" /> </p>
 
-- 👋 Hi, **I’m Hemant Gaikwad, I have sound knowledge of Machine Learning, LLM, Low Code, Core Java, C#, MVC, Outsystems, Web API and Data Science**
+- 👋 Hi, **I’m Hemant Gaikwad, I have sound knowledge of Gen AI, Machine Learning, LLM, Low Code, Core Java, C#, MVC, Outsystems, Web API and Data Science**
 - 
+
+![image](<img src="https://github.com/user-attachments/assets/09faf562-3614-40cd-b07a-329331d94579" width="350" alt="Gen AI">)
+
 Currently learning AI Agents on HuggingFace Platform
 
-<img src="https://cdn-uploads.huggingface.co/production/uploads/noauth/C85B-gF9akNUIzEoKAYU3.webp" />
+<img src="https://cdn-uploads.huggingface.co/production/uploads/noauth/C85B-gF9akNUIzEoKAYU3.webp" width="350" alt="AI Agents by Hugging Face"/>
 - Badge: Applying AI Technologies to the Workplace
 
 **Badge Title:** Applying AI Technologies to the Workplace  

@@ -3,7 +3,7 @@
 - 👋 Hi, **I’m Hemant Gaikwad, I have sound knowledge of Gen AI, Machine Learning, LLM, Low Code, Core Java, C#, MVC, Outsystems, Web API and Data Science**
 - 
 
-![image](<img src="https://github.com/user-attachments/assets/09faf562-3614-40cd-b07a-329331d94579" width="350" alt="Gen AI">)
+![image](https://github.com/user-attachments/assets/09faf562-3614-40cd-b07a-329331d94579)
 
 Currently learning AI Agents on HuggingFace Platform
 

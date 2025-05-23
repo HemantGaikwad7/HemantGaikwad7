@@ -2,7 +2,9 @@
 
 - 👋 Hi, **I’m Hemant Gaikwad, I have sound knowledge of Gen AI, Machine Learning, LLM, Low Code, Core Java, C#, MVC, Outsystems, Web API and Data Science**
 - Completed course Introduction to Generative AI by Google
+- <a href="https://www.kaggle.com/certification/badges/hemantgaikwad97/96" target="_blank">Credentials</a>
 
+<img width="250" alt="GenAI" src="https://github.com/user-attachments/assets/3e5e5379-669e-48f0-99d5-1ef347e14af8" />
 <img width="250" alt="GenAI" src="https://github.com/user-attachments/assets/d1bda1a5-8946-4e74-b160-d0965b0c1eb1" />
 
 

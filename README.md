@@ -8,8 +8,9 @@
 <img width="250" alt="GenAI" src="https://github.com/user-attachments/assets/d1bda1a5-8946-4e74-b160-d0965b0c1eb1" />
 
 
-Currently learning AI Agents on HuggingFace Platform
+Completed AI Agents course on HuggingFace Platform
 
+<img src="https://github.com/user-attachments/assets/5f4edeb5-8f5c-4bf2-9915-20470c8621b6" width="250" alt="AI Agents by Hugging Face"/>
 <img src="https://cdn-uploads.huggingface.co/production/uploads/noauth/C85B-gF9akNUIzEoKAYU3.webp" width="250" alt="AI Agents by Hugging Face"/>
 - Badge: Applying AI Technologies to the Workplace
 
